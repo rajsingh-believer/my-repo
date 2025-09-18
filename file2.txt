@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file 2
+=======
+sdv sv f 
+>>>>>>> feature
